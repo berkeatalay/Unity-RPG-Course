@@ -97,10 +97,10 @@ namespace RPG.Control
 
             NavMeshHit navMeshHit;
             bool hasCastToNavMesh = NavMesh.SamplePosition(
-                                                            hit.point,
-                                                            out navMeshHit,
-                                                            maxNavMeshProjectionDistance,
-                                                            NavMesh.AllAreas);
+                hit.point,
+                out navMeshHit,
+                maxNavMeshProjectionDistance,
+                NavMesh.AllAreas);
             if (!hasCastToNavMesh) return false;
             target = navMeshHit.position;
             return true;
