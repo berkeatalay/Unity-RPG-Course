@@ -445,6 +445,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tough Enemy
       objectReference: {fileID: 0}
+    - target: {fileID: 4410354333597726275, guid: 4f8ffb693e8431440953cc38baf29d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5788592963522754075, guid: 4f8ffb693e8431440953cc38baf29d59,
         type: 3}
       propertyPath: m_Name
@@ -939,6 +944,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410354333597726275, guid: 4f8ffb693e8431440953cc38baf29d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5788592963522754075, guid: 4f8ffb693e8431440953cc38baf29d59,
         type: 3}
@@ -1457,6 +1467,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4410354333597726275, guid: 4f8ffb693e8431440953cc38baf29d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5788592963522754075, guid: 4f8ffb693e8431440953cc38baf29d59,
         type: 3}
       propertyPath: m_Name
@@ -1866,6 +1881,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Enemy (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4410354333597726275, guid: 4f8ffb693e8431440953cc38baf29d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5788592963522754075, guid: 4f8ffb693e8431440953cc38baf29d59,
         type: 3}
       propertyPath: m_Name
@@ -1995,6 +2015,11 @@ PrefabInstance:
         type: 3}
       propertyPath: uniqueIdentifier
       value: 82c5da33-d84e-406a-a253-ebb16d1d7ab4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5369589712251381758, guid: d2d2a639ca8ce864f8a43332036cbaa6,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6814057784762493350, guid: d2d2a639ca8ce864f8a43332036cbaa6,
         type: 3}
@@ -2516,7 +2541,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7780083, y: 1}
+    m_SensorSize: {x: 1.7772622, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -2532,7 +2557,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1036381313}
-  m_LocalRotation: {x: 0.21143667, y: 0.04830474, z: -0.010463028, w: 0.9761413}
+  m_LocalRotation: {x: 0.21143669, y: 0.048304766, z: -0.010463035, w: 0.9761413}
   m_LocalPosition: {x: 5.333, y: 4.03, z: -3.917}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3278,7 +3303,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7780083, y: 1}
+    m_SensorSize: {x: 1.7772622, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -3294,7 +3319,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1677325118}
-  m_LocalRotation: {x: 0.062347334, y: 0.5603654, z: -0.042358056, w: 0.8248086}
+  m_LocalRotation: {x: 0.06234733, y: 0.5603654, z: -0.042358052, w: 0.8248086}
   m_LocalPosition: {x: -18, y: 3.63, z: -28.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3327,7 +3352,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1691302859}
-  m_LocalRotation: {x: 0.07273877, y: -0.2492699, z: 0.018779166, w: 0.96551585}
+  m_LocalRotation: {x: 0.072738744, y: -0.24926998, z: 0.018779159, w: 0.9655159}
   m_LocalPosition: {x: -4.9615784, y: 19.818277, z: -15.982566}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3383,7 +3408,7 @@ MonoBehaviour:
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 1.7780083, y: 1}
+    m_SensorSize: {x: 1.7772622, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
@@ -3925,6 +3950,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410354333597726275, guid: 4f8ffb693e8431440953cc38baf29d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5788592963522754075, guid: 4f8ffb693e8431440953cc38baf29d59,
         type: 3}
@@ -4713,6 +4743,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4410354333597726275, guid: 4f8ffb693e8431440953cc38baf29d59,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5788592963522754075, guid: 4f8ffb693e8431440953cc38baf29d59,
         type: 3}

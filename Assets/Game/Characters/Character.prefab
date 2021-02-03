@@ -178,12 +178,12 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 8913653760760351936}
         m_MethodName: Spawn
-        m_Mode: 4
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
-          m_FloatArgument: 13
+          m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -279,6 +279,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1938992060786173263, guid: 943f60d50aeeb514da9814e3ee33f737,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.25
       objectReference: {fileID: 0}
     - target: {fileID: 2679185118734925587, guid: 943f60d50aeeb514da9814e3ee33f737,
         type: 3}
